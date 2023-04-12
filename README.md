@@ -1,11 +1,13 @@
-# Olá meu nome é Leticia
-<div align = center>
- <div align= center>
-   <h1>estudante de bict
+# Letícia Awawdeh
+   <h3> Discente do curso de bacharelado interdisciplinar em ciência e tecnologia na UFLA
+   <h4> Dev iniciante
+   
+   <div align= center>
+   <h1> Sobre mim
 
  </div>
 <div align="center">
-  <a href="https://github.com/gmalheiro">
+  <a href="https://github.com/aceilt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aceilt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceilt&layout=compact&langs_count=7&theme=nord"/>
 </div>
