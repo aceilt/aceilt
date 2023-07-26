@@ -1,6 +1,6 @@
 # Letícia Awawdeh
-   <h3> Discente do curso de bacharelado interdisciplinar em ciência e tecnologia na UFLA
-   <h4> Dev iniciante
+   <h3> software engineering student at UFLA
+   <h4> Hello Word!
    
    <div align= center>
    <h1> Sobre mim
