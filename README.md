@@ -1,6 +1,6 @@
 # Letícia Awawdeh
    <h3> software engineering student at UFLA
-   <h4> Hello Word!
+   <h4> Hello World!
    
    <div align= center>
    <h1> Sobre mim
