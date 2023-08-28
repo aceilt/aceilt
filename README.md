@@ -1,5 +1,5 @@
 # Letícia Awawdeh
-   <h3> software engineering student at UFLA
+   <h3> Software Engineering Student at Federal University of Lavras (UFLA)
    <h4> Hello World!
    
    <div align= center>
