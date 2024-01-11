@@ -1,7 +1,7 @@
 <h1 align="center"> Letícia Awawdeh</h1>
 
 <div>
-<img align="right" width="400"  height="650" alt="teste" src="https://2.bp.blogspot.com/-VcyKW20HTxw/V2MdeUctlvI/AAAAAAAAb3U/ucWxUVeR--ALd7cHKNz1B9YbU3ZsrqlDACLcB/s640/Caspar%2BDavid%2BFriedrich%2B-%2BWanderer%2Babove%2Bthe%2BSea%2Bof%2BFog%252C%2B1818.jpg"/>
+<img align="right" width="450"  height="850" alt="teste" src="https://2.bp.blogspot.com/-VcyKW20HTxw/V2MdeUctlvI/AAAAAAAAb3U/ucWxUVeR--ALd7cHKNz1B9YbU3ZsrqlDACLcB/s640/Caspar%2BDavid%2BFriedrich%2B-%2BWanderer%2Babove%2Bthe%2BSea%2Bof%2BFog%252C%2B1818.jpg"/>
 
 <h2> { Sobre Mim/ About Me } </h2>
 
@@ -11,14 +11,17 @@
 
 <h2>{ Skills }</h2>
 
-   - <h4> /* Linguagens / Languages */ </h4>
+<h3><strong>Linguagens</strong></h3>
+
 [![Languages](https://skillicons.dev/icons?i=py,java,javascript,nodejs&perline=4)](https://skillicons.dev)
-   - <h4> Tools </h4>
+
+-<h3> **Tools** </h3>
 [![Tools](https://skillicons.dev/icons?i=vscode,git,mysql,css,html&perline=4)](https://skillicons.dev)
- -<h4> /* Design Tools */ </h4>
+
+ -<h3> **Design Tools** </h3>
  [![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
     
-- <h4> /* Data */ </h4>
+<h2> { Data } </h2>
     <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=leticia-awawdeh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="leticia-awawdeh" 
