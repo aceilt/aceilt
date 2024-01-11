@@ -1,7 +1,7 @@
 <h1 align="center"> Letícia Awawdeh</h1>
 
 <div>
-<img align="right" width="400"  height="650" alt="teste" src="https://2.bp.blogspot.com/-VcyKW20HTxw/V2MdeUctlvI/AAAAAAAAb3U/ucWxUVeR--ALd7cHKNz1B9YbU3ZsrqlDACLcB/s640/Caspar%2BDavid%2BFriedrich%2B-%2BWanderer%2Babove%2Bthe%2BSea%2Bof%2BFog%252C%2B1818.jpg"/>
+<img align="right" width="400"  height="800" alt="teste" src="https://2.bp.blogspot.com/-VcyKW20HTxw/V2MdeUctlvI/AAAAAAAAb3U/ucWxUVeR--ALd7cHKNz1B9YbU3ZsrqlDACLcB/s640/Caspar%2BDavid%2BFriedrich%2B-%2BWanderer%2Babove%2Bthe%2BSea%2Bof%2BFog%252C%2B1818.jpg"/>
 
 <h2> { Sobre Mim/ About Me } </h2>
 
