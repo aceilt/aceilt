@@ -22,10 +22,8 @@
  [![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
     
 <h2> { Data } </h2>
-    <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=leticia-awawdeh&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="leticia-awawdeh" 
-    bg_color=#808080/></p>
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticia-awawdeh&theme=dark&show_icons=true&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2> {Contact With Me} </h2>
     <a href = "leticiaawawdeh@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
