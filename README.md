@@ -16,7 +16,7 @@
 [![Languages](https://skillicons.dev/icons?i=py,java,javascript&perline=4)](https://skillicons.dev)
 
 -<h3> **Tools** </h3>
-[![Tools](https://skillicons.dev/icons?i=vscode,git,mysql,css,html,nodejs&perline=4)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,mysql,css,html,nodejs,react&perline=4)](https://skillicons.dev)
 
  -<h3> **Design Tools** </h3>
  [![Design Tools](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
