@@ -5,9 +5,9 @@
 
 <h2> { Sobre Mim/ About Me } </h2>
 
-- Estudante de **Engenharia de Software** na **Universidade Federal de Lavras**
+- **Software Engeneering** student at **UFLA**
 
-- **Aprendendo** novas linguagens
+- **Learning** new languages
 
 <h2>{ Skills }</h2>
 
